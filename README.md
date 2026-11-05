@@ -1,2 +1,3 @@
 # welcome-to-technorave
-Singlemind
+Singlemind написал сайтец
+https://technorave.ru
